@@ -1,0 +1,4 @@
+:name "eint_port"
+:node-sname "eint_port_edts"
+:lib-dirs '("deps")
+:app-include-dirs '("include" "src")
